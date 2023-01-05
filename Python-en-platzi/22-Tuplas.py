@@ -17,4 +17,7 @@ print(lista_final);
 
 mi_tupla = (1, 2, 3, 4, 5); #Las tuplas son estaticas pero al no poder realizar cambios entonces nos permiten navegarlas de una maner mucho mas rapida
 
-"""Las tuplas son las estructura de datos mas rapidas de python ya que son inmutables"""
+"""
+Las tuplas son las estructura de datos mas rapidas de python ya que son inmutables
+la inmutabilidad significa que no se puede cambiar 
+"""
