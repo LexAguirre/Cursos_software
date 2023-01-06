@@ -1,4 +1,4 @@
-# Python-en-platzi
+# Curso Básico de Python
 
 > <a href="https://platzi.com/cursos/python-basico/">Curso basico de python</a>
 
