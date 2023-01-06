@@ -65,5 +65,6 @@ Aprende a programar desde cero con el lenguaje de mayor crecimiento en el planet
 
 1. Sigue aprendiendo
 
-<span>Certificación: <a href="https://platzi.com/p/RayLex_Aguirre/curso/1937-python-basico/diploma/detalle/">Mostrar credencial</a></span>
+> <span>Certificación: <a href="https://platzi.com/p/RayLex_Aguirre/curso/1937-python-basico/diploma/detalle/">Mostrar credencial</a></span>
+
 ![Certificado](img/diploma-python-basico.jpg)
