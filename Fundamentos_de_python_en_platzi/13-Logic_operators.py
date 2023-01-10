@@ -8,7 +8,7 @@ print("False and False =>", False and False);
 print(10 > 5 and 5 < 10);
 print(10 > 5 and 5 > 10);
 
-stock = input("Input the number of the stock");
+stock = input("Input the number of the stock ");
 stock = int(stock);
 
 print(stock >= 100 and stock <= 1000);
