@@ -2,6 +2,7 @@ import random;
 
 user_option = input("Rock, paper or scissors: ");
 user_option = user_option.capitalize();
+user_option = user_option.strip();
 options = ["Rock", "Paper", "Scissors"];
 computer_option = random.choice(options);
 print(f"The computer chose {computer_option}");
