@@ -6,7 +6,7 @@
 
 > Profesor en platzi: <a href="https://github.com/nicobytes">Nicolas Molina</a>
 
-- <a href="https://github.com/LexAguirre/Cursos_software/tree/master/Fundamentos_de_python_en_platzi">Curso de Fundamentos de Python</a>
+- <a href="https://github.com/LexAguirre/Cursos_software/tree/master/Python_basico_en_platzi">Curso Básico de Python</a>
 
 > Profesor en casa de platzi: <a href="https://github.com/facmartoni">Facundo García Martoni</a>
 
