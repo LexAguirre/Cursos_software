@@ -2,7 +2,7 @@
 
 > <a href="https://platzi.com/cursos/python/?school=_escuela_escuela-datos_">Curso de Fundamentos de Python</a>
 
-Profesor en platzi: Nicolas Molina
+Profesor en platzi: <a href="https://github.com/nicobytes">Nicolas Molina</a>
 
 > Senior Web Developer con Angular y NestJS
 

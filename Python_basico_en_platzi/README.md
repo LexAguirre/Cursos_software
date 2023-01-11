@@ -2,7 +2,7 @@
 
 > <a href="https://platzi.com/cursos/python-basico/">Curso basico de python</a>
 
-Profesor en casa de platzi: Facundo García Martoni
+Profesor en casa de platzi: <a href="https://github.com/facmartoni">Facundo García Martoni</a>
 
 > Experto en Python, Frontend y Backend Engineer, Powerlifter
 
