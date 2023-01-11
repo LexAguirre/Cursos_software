@@ -1,4 +1,4 @@
-# # Curso de Fundamentos de Python
+# Curso de Fundamentos de Python
 
 > <a href="https://platzi.com/cursos/python/?school=_escuela_escuela-datos_">Curso de Fundamentos de Python</a>
 
