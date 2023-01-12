@@ -69,6 +69,6 @@ Aprende Python desde cero. Eleva tus oportunidades con este lenguaje en gran cre
 
 1. Proyecto: aplicando ciclos
 
-> <span>Certificación: <a href="...">Mostrar credencial</a></span>
+> <span>Certificación: <a href="https://platzi.com/p/RayLex_Aguirre/curso/4227-python/diploma/detalle/">Mostrar credencial</a></span>
 
 ![Certificado](img/...)
