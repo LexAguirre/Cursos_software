@@ -3,7 +3,11 @@ import random;
 user_option = input("Rock, paper or scissors: ");
 user_option = user_option.capitalize();
 user_option = user_option.strip();
-options = ["Rock", "Paper", "Scissors"];
+options = ("Rock", "Paper", "Scissors");
+
+if not user_option in options:
+    print("That option is not available");
+
 computer_option = random.choice(options);
 print(f"The computer chose {computer_option}");
 
