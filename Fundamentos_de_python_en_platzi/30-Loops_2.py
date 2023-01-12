@@ -9,3 +9,4 @@ for row in matriz:
     print(row);
     for column in row:
         print(column);
+        
