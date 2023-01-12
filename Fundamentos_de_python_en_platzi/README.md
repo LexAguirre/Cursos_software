@@ -71,4 +71,4 @@ Aprende Python desde cero. Eleva tus oportunidades con este lenguaje en gran cre
 
 > <span>Certificación: <a href="https://platzi.com/p/RayLex_Aguirre/curso/4227-python/diploma/detalle/">Mostrar credencial</a></span>
 
-![Certificado](img/...)
+![Certificado](img/Fundamentos_de_Python.jpg)
