@@ -4,7 +4,7 @@
 
 - <a href="https://github.com/LexAguirre/Cursos_software/tree/master/Fundamentos_de_python_en_platzi">Curso de Fundamentos de Python</a>
 
-- <a href="...">Curso de Python: Comprehensions, Funciones y Manejo de Errores</a>
+- <a href="https://github.com/LexAguirre/Cursos_software/tree/master/Python_Comprehensions_Funciones_y_Errores">Curso de Python: Comprehensions, Funciones y Manejo de Errores</a>
 
 > Profesor en platzi: <a href="https://github.com/nicobytes">Nicolas Molina</a>
 
