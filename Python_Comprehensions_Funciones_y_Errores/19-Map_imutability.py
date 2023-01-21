@@ -17,11 +17,12 @@ prices = list(map(lambda item: item["price"], items));
 print(prices);
 
 def add_taxes(item):
-    item["taxes"] = item["price"] * .19 #Referencia el array y no como uno nuevo sino el existente por lo que lo muta.
-    return item;
+    new_item = item.copy() # Se declara esta linea para evitar que se mute el array original ya que con copy traemos todo lo que contiene el otro diccionario
+    new_item["taxes"] = new_item["price"] * .19
+    return new_item;
 
 new_items = list(map(add_taxes, items));
+print("New items");
 print(new_items);
+print("Old list")
 print(items);
-
-#Aqui hay un problema ya que si no se quiere modificar el array original entonces no lo esta cumpliendo ya que modifica por lo que se debe editar la funcion add_taxes
