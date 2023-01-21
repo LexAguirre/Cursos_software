@@ -16,5 +16,5 @@ numbers_2 = [5, 6, 7];
 print(numbers_1);
 print(numbers_2);
 
-result = map(lambda x, y: x + y, numbers_1, numbers_2);
+result = map(lambda x, y: x + y, numbers_1, numbers_2); 
 print(result);
