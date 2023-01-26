@@ -7,12 +7,13 @@ def run():
     print(sys.path); #sys es el sistema por lo que toma informacion del sistema donde se ejecuta
 
     text = "My phone number is 111 284 9283, the code of my country is +52, and my lucky number is 1"
-    result = re.findall("[1-9]+", text); #busca unos numeros espesificos en el texto
+    result = re.findall("[0-9]+", text); #busca unos numeros espesificos en el texto
     print(result);
 
     timestamp = time.time();
     print(timestamp)
     local = time.localtime();
+    print(local);
     result = time.asctime(local);
     print(result);
 
