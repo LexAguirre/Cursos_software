@@ -1,4 +1,5 @@
-import main;
+import main
 
-print(main.data);
-main.run();
+print(main.data)
+
+country = main.run()
