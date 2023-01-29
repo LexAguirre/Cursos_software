@@ -22,7 +22,7 @@
 
 > Profesor en Udemy: <a href="https://github.com/jonasschmedtmann">Jonas Schmedtmann</a>
 
-[![React](https://img.shields.io/badge/React-F7DF1E?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)]()
 
 - <a href="https://github.com/LexAguirre/Cursos_software/tree/master/React-con-Ismael">Taller de react 2022</a>
 
