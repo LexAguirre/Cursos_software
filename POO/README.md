@@ -1,70 +1,81 @@
-# Curso Básico de Python
+# Curso de Programación Orientada a Objetos: POO
 
-> <a href="https://platzi.com/cursos/python-basico/">Curso basico de python</a>
+> <a href="https://platzi.com/cursos/oop/">Curso de Programación Orientada a Objetos: POO</a>
 
-Profesor en casa de platzi: <a href="https://github.com/facmartoni">Facundo García Martoni</a>
+Profesor de platzi: <a href="https://github.com/anncode1">Anahí Salgado Díaz de la Vega</a>
 
-> Experto en Python, Frontend y Backend Engineer, Powerlifter
+> Android, Firebase, Java, Geek & Teacher en Platzi
 
-Aprende a programar desde cero con el lenguaje de mayor crecimiento en el planeta: Python. Descubre qué es un algoritmo y cómo se construye uno. Domina las variables, funciones, estructuras de datos, los condicionales y ciclos.
+La misión: lograr que la virtualidad sea idéntica a la realidad. El elegido para esta tarea: tú. Sé parte de la generación que logra cambiar el mundo a través de ideas innovadoras, porque la diferencia entre ser testigo del cambio y ser parte de él comienza con Platzi.
 
-- Hacer estructuras de datos
-- Crear bucles
-- Conocer herramientas para programar
-- Aprender conceptos básicos de Python
+- Conocer los diferentes lenguajes de programación orientados a objetos
+- Analizar problemas para el desarrollo de proyectos orientado a objetos
+- Entender el funcionamiento de los objetos
+- Entender el funcionamiento de las clases
 
 # Contenido del curso
 
-- Introducción a la programación con Python
+- Bienvenida e Introducción
 
-1. El arte de la programación
-2. ¿Por qué aprender Python?
-3. El núcleo de un programa: los algoritmos
-4. Instalación de nuestras herramientas en Windows
-5. Instalación de nuestras herramientas en Mac
-6. Instalación de nuestras herramientas en Ubuntu
-7. Tu mejor herramienta: la consola
+1. ¿Por qué aprender Programación Orientada a Objetos?
+2. ¿Qué resuelve la Programación Orientada a Objetos?
+3. Paradigma Orientado a Objetos
+4. Lenguajes Orientados a Objetos
+5. Instalando Visual Studio Code
+6. Diagramas de Modelado
+7. Qué es UML
 
-- Conceptos básicos de Python
+- Orientación a Objetos
 
-1. Explorando Python: operadores aritméticos
-2. ¿Qué es una variable?
-3. Los primitivos: tipos de datos sencillos
-4. Convertir un dato a un tipo diferente
-5. Operadores lógicos y de comparación en Python
-6. Tu primer programa: conversor de monedas
+1. Objetos
+2. Abstracción y Clases
+3. Modularidad
+4. Analizando Uber en Objetos
+5. Reto 1: identificando objetos
 
-- Herramientas para programar
+- Programación Orientada a Objetos. Análisis
 
-1. Construyendo el camino de un programa con condicionales
-2. Varios países en mi conversor de monedas
-3. Aprendiendo a no repetir código con funciones
-4. Modularizando nuestro conversor de monedas
-5. Trabajando con texto: cadenas de caracteres
-6. Trabajando con texto: slices
-7. Proyecto: palíndromo
+1. Clases en UML y su sintaxis en código
+2. Modelando nuestros objetos Uber
+3. ¿Qué es la herencia?
+4. Aplicando Herencia a nuestro proyecto Uber
+5. Reto 2: analicemos un problema
 
-- Bucles
+- Clases, Objetos y Método Constructor
 
-1. Aprendiendo bucles
-2. El ciclo while
-3. Explorando un bucle diferente: el ciclo for
-4. Recorriendo un string con for
-5. Interrumpiendo ciclos con break y continue
-6. Proyecto: prueba de primalidad
-7. Proyecto: videojuego
+1. Creando nuestras carpetas iniciales para el curso
+2. Definiendo clases en Java y Python
+3. Definiendo Clases en JavaScript
+4. Objetos, método constructor y su sintaxis en código
+5. Objetos. Dando vida a nuestras clases en Java y Python
+6. Declarando un Método Constructor en Java y JavaScript
+7. JavaScript orientado a objetos, lo más nuevo
+8. Declarando un método constructor en Python
 
-- Estructuras de datos
+- Herencia
 
-1. Almacenar varios valores en una variable: listas
-2. Entendiendo cómo funcionan las tuplas
-3. ¿Qué son los diccionarios?
-4. Proyecto: generador de contraseñas
+1. Aplicando herencia en lenguaje Java y PHP
+2. Solución del reto de herencia en PHP
+3. Aplicando herencia en lenguaje Python y JavaScript
+4. Otros tipos de Herencia
+5. Reto 4
 
-- Despedida
+- Encapsulamiento
 
-1. Sigue aprendiendo
+1. Encapsulamiento
+2. Encapsulando atributos en Java
 
-> <span>Certificación: <a href="https://platzi.com/p/RayLex_Aguirre/curso/1937-python-basico/diploma/detalle/">Mostrar credencial</a></span>
+- Polimorfismo
 
-![Certificado](img/diploma-python-basico.jpg)
+1. Generando polimorfismo en Java
+2. Generando polimorfismo en PHP
+
+- Cierre del curso
+
+1. El Diagrama UML de Uber
+2. Conclusiones
+3. Bonus: Qué es la Programación Orientada a Objetos
+
+<span>Certificación: <a href="">Mostrar credencial</a></span>
+
+![Certificado](img/)
