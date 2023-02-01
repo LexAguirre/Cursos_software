@@ -82,6 +82,6 @@ Fortalece tus habilidades de programación con Python, uno de los lenguajes más
 1. Toma el Curso de PIP y Entornos Virtuales con Python
 2. Comparte tu proyecto de python y certifícate
 
-> <span>Certificación: <a href="...">Mostrar credencial</a></span>
+> <span>Certificación: <a href="https://platzi.com/p/RayLex_Aguirre/curso/4260-course/diploma/detalle/">Mostrar credencial</a></span>
 
-![Certificado](img/...)
+![Certificado](img/diploma-python-funciones.jpg)
