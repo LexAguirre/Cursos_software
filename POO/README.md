@@ -76,6 +76,6 @@ La misión: lograr que la virtualidad sea idéntica a la realidad. El elegido pa
 2. Conclusiones
 3. Bonus: Qué es la Programación Orientada a Objetos
 
-<span>Certificación: <a href="">Mostrar credencial</a></span>
+<!-- <span>Certificación: <a href="">Mostrar credencial</a></span>
 
-![Certificado](img/)
+![Certificado](img/) -->
