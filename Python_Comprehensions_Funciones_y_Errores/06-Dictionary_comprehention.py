@@ -1,5 +1,6 @@
 import random
 
+
 def run():
     """
     dict = {};
@@ -23,15 +24,14 @@ def run():
     population_v2 = {country: random.randint(1, 100) for country in countries};
     print(population_v2);
     """
-    names = ["nico", "zule", "santi"];
-    ages = [12, 56, 98];
+    names = ["nico", "zule", "santi"]
+    ages = [12, 56, 98]
 
-    print(list(zip(names, ages)));
+    print(list(zip(names, ages)))
 
-    new_dict = {name: age for (name, age) in zip(names, ages)};
-    print(new_dict);
-
+    new_dict = {name: age for (name, age) in zip(names, ages)}
+    print(new_dict)
 
 
 if __name__ == '__main__':
-    run();
+    run()

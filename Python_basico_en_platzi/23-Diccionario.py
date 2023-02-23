@@ -2,6 +2,7 @@
 Los dicionarios
 """
 
+
 def run():
     mi_diccionario = {
         "Llave_1": 1,
@@ -19,17 +20,17 @@ def run():
         "Colombia": 50372424,
     }
 
-    # print(poblacion_paises["Argentina"]);
+    print(poblacion_paises["Argentina"])
 
-    # for pais in poblacion_paises.keys(): #Devuelve las llaves
-    #     print(pais);
+    for pais in poblacion_paises.keys():  # Devuelve las llaves
+        print(pais)
 
-    # for pais in poblacion_paises.values(): #Devuelve los valores de las llaves
-    #     print(pais);
+    for pais in poblacion_paises.values():  # Devuelve los valores de las llaves
+        print(pais)
 
-    for pais, poblacion in poblacion_paises.items(): #Devuelve los valores de las llaves y las llaves
-        print(pais + " tiene " + str(poblacion) + " habitantes");
+    for pais, poblacion in poblacion_paises.items():  # Devuelve los valores de las llaves y las llaves
+        print(pais + " tiene " + str(poblacion) + " habitantes")
 
 
 if __name__ == "__main__":
-    run();
+    run()
