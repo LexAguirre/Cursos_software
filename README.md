@@ -1,12 +1,10 @@
 # Cursos
 
+- <a href="https://github.com/LexAguirre/Cursos_software/tree/master/Pensamiento_Logico">Curso de Pensamiento Lógico: Lenguajes de Programación</a>
+
+> Profesor de platzi: <a href="https://github.com/anabelisam">Ana Belisa Martínez</a>
+
 [![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-
-- <a href="https://github.com/LexAguirre/Cursos_software/tree/master/Fundamentos_de_python_en_platzi">Curso de Fundamentos de Python</a>
-
-- <a href="https://github.com/LexAguirre/Cursos_software/tree/master/Python_Comprehensions_Funciones_y_Errores">Curso de Python: Comprehensions, Funciones y Manejo de Errores</a>
-
-> Profesor en platzi: <a href="https://github.com/nicobytes">Nicolas Molina</a>
 
 - <a href="https://github.com/LexAguirre/Cursos_software/tree/master/Python_basico_en_platzi">Curso Básico de Python</a>
 
@@ -15,6 +13,13 @@
 - <a href="https://github.com/LexAguirre/Cursos_software/tree/master/Python-con-mouredev">Curso de PYTHON desde CERO</a>
 
 > Profesor en youtube: <a href="https://github.com/mouredev">Brais Moure</a>
+
+- <a href="https://github.com/LexAguirre/Cursos_software/tree/master/Fundamentos_de_python_en_platzi">Curso de Fundamentos de Python</a>
+
+- <a href="https://github.com/LexAguirre/Cursos_software/tree/master/Python_Comprehensions_Funciones_y_Errores">Curso de Python: Comprehensions, Funciones y Manejo de Errores</a>
+
+> Profesor en platzi: <a href="https://github.com/nicobytes">Nicolas Molina</a>
+
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 

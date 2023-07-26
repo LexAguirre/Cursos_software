@@ -47,6 +47,6 @@ Da tus primeros pasos con los lenguajes de programación más populares de 2022:
 
 1. Toma los Desafíos Semanales de Pensamiento Lógico
 
-<!-- <span>Certificación: <a href="">Mostrar credencial</a></span>
+<span>Certificación: <a href="https://platzi.com/p/RayLex_Aguirre/curso/3223-pensamiento-logico-lenguajes/diploma/detalle/">Mostrar credencial</a></span>
 
-![Certificado](img/) -->
+![Certificado](img/pensamiento-logico-lenguajes.jpg)
