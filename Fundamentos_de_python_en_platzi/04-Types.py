@@ -19,3 +19,10 @@ print(type(is_single));
 my_age = input("¿Cual es tu edad?");
 print("my_age =>", my_age);
 print(type(my_age));
+
+
+def calculate_tip(bill_amount, tipPercentage):
+   return round(((bill_amount * tipPercentage)/100),2)
+
+calculate_tip(100, 10);
+calculate_tip(1524.33, 25);
