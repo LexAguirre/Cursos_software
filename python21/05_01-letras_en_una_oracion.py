@@ -1,13 +1,12 @@
-def count_letters(oracion):
+def count_letters(phrase):
   conteo_letra = {}
   
-  for letra in oracion:
-
-    if letra in oracion:
+  for letra in phrase:
+    if letra in conteo_letra:
       conteo_letra[letra] += 1
     else:
       conteo_letra[letra] = 1
 
-  return 
+  return conteo_letra
 
 print(count_letters("Hola mundo"))
