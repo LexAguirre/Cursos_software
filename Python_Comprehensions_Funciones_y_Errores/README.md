@@ -1,87 +1,87 @@
-# Curso de Python: Comprehensions, Funciones y Manejo de Errores
+# Python Course: Comprehensions, Functions and Error Handling
 
-> <a href="https://platzi.com/cursos/python-funciones/?school=_escuela_escuela-datos_">Curso de Python: Comprehensions, Funciones y Manejo de Errores</a>
+> <a href="https://platzi.com/cursos/python-funciones/?school=_escuela_escuela-datos_">Python Course: Comprehensions, Functions and Error Handling</a>
 
-Profesor en platzi: <a href="https://github.com/nicobytes">Nicolas Molina</a>
+Platzi professor: <a href="https://github.com/nicobytes">Nicolas Molina</a>
 
-> Senior Web Developer con Angular y NestJS
+> Senior Web Developer with Angular and NestJS
 
-Fortalece tus habilidades de programación con Python, uno de los lenguajes más utilizados. Aprende conceptos como funciones, comprehensions, errores y manejo de archivos que elevarán tu nivel al programar. Crea un gran proyecto junto a tu profesor Nicolas Molina.
+Strengthen your programming skills with Python, one of the most used languages. Learn concepts like functions, comprehensions, errors, and file handling that will elevate your programming level. Create a great project alongside your professor Nicolas Molina.
 
-- Crea y utiliza funciones y módulos para reutilizar código.
-- Maneja archivos de texto con el context manager.
-- Utiliza list y dictionary comprehensions, y high order functions.
-- Aprende qué significan los errores y cómo manejarlos.
+- Create and use functions and modules to reuse code
+- Handle text files with the context manager
+- Use list and dictionary comprehensions, and high order functions
+- Learn what errors mean and how to handle them
 
-# Contenido del curso
+# Course Content
 
-- Introducción
+- Introduction
 
-1. El Zen de Python
+1. The Zen of Python
 
-- Conjuntos
+- Sets
 
 1. Sets
-2. Modificando conjuntos
-3. Operaciones con conjuntos
-4. Playgrounds: elimina elementos duplicados usando conjuntos
+2. Modifying sets
+3. Operations with sets
+4. Playgrounds: remove duplicate elements using sets
 
 - Comprehensions
 
 1. List Comprehension
 2. Dictionary Comprehension
 3. Dictionary Comprehension: condition
-4. Playgrounds: crea una lista usando list comprehension
+4. Playgrounds: create a list using list comprehension
 5. Lists vs. Tuples vs. Sets
 
-- Funciones
+- Functions
 
-1. Funciones
-2. Funciones: return
-3. Parámetros por defecto y múltiples returns
-4. El scope
+1. Functions
+2. Functions: return
+3. Default parameters and multiple returns
+4. The scope
 5. Refactor game
-6. Playgrounds: tienda de tecnología
-7. Funciones anónimas: lambda
-8. Higher order function: una función dentro de otra función
+6. Playgrounds: technology store
+7. Anonymous functions: lambda
+8. Higher order function: a function within another function
 9. Map
-10. Map con diccionarios
-11. Reto: map con inmutabilidad
-12. Playgrounds: multiplica todos los elementos por dos
+10. Map with dictionaries
+11. Challenge: map with immutability
+12. Playgrounds: multiply all elements by two
 13. Filter
-14. Playgrounds: retorna solo palabras de 4 letras y más
+14. Playgrounds: return only words with 4 letters and more
 15. Reduce
 
-- Módulos
+- Modules
 
-1. Módulos
-2. Mis propios módulos
-3. Módulos como scripts: **name** y **main**
-4. Paquetes
-5. Playgrounds: calcular la suma de todas las compras
+1. Modules
+2. My own modules
+3. Modules as scripts: __name__ and __main__
+4. Packages
+5. Playgrounds: calculate the sum of all purchases
 
-- Manipulación de archivos y errores
+- File Manipulation and Errors
 
 1. Iterables
-2. Errores en Python
-3. Manejo de excepciones
-4. Playgrounds: captura la excepción: zerodivisionerror
-5. Leer un archivo de texto
-6. Escribir en un archivo
-7. Leer un CSV
-8. Playgrounds: lee un csv para calcular el total de gastos
+2. Errors in Python
+3. Exception handling
+4. Playgrounds: catch the exception: zerodivisionerror
+5. Reading a text file
+6. Writing to a file
+7. Reading a CSV
+8. Playgrounds: read a csv to calculate total expenses
 
-- Gráficas en Python
+- Graphs in Python
 
-1. Creando una gráfica
-2. Reto: graficando la población de un país
-3. Reto: graficando la población mundial
+1. Creating a graph
+2. Challenge: plotting a country's population
+3. Challenge: plotting world population
 
-- Próximos pasos
+- Next Steps
 
-1. Toma el Curso de PIP y Entornos Virtuales con Python
-2. Comparte tu proyecto de python y certifícate
+1. Take the PIP and Virtual Environments with Python Course
+2. Share your Python project and get certified
 
-> <span>Certificación: <a href="https://platzi.com/p/RayLex_Aguirre/curso/4260-course/diploma/detalle/">Mostrar credencial</a></span>
+> <span>Certification: <a href="https://platzi.com/p/RayLex_Aguirre/curso/4260-course/diploma/detalle/">Show credential</a></span>
 
-![Certificado](img/diploma-python-funciones.jpg)
+![Certificate](img/diploma-python-funciones.jpg)
