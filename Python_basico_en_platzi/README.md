@@ -1,70 +1,70 @@
-# Curso Básico de Python
+# Basic Python Course
 
-> <a href="https://platzi.com/cursos/python-basico/">Curso basico de python</a>
+> <a href="https://platzi.com/cursos/python-basico/">Basic Python Course</a>
 
-Profesor en casa de platzi: <a href="https://github.com/facmartoni">Facundo García Martoni</a>
+Platzi home professor: <a href="https://github.com/facmartoni">Facundo García Martoni</a>
 
-> Experto en Python, Frontend y Backend Engineer, Powerlifter
+> Python Expert, Frontend and Backend Engineer, Powerlifter
 
-Aprende a programar desde cero con el lenguaje de mayor crecimiento en el planeta: Python. Descubre qué es un algoritmo y cómo se construye uno. Domina las variables, funciones, estructuras de datos, los condicionales y ciclos.
+Learn to program from scratch with the fastest-growing language on the planet: Python. Discover what an algorithm is and how to build one. Master variables, functions, data structures, conditionals, and loops.
 
-- Hacer estructuras de datos
-- Crear bucles
-- Conocer herramientas para programar
-- Aprender conceptos básicos de Python
+- Create data structures
+- Build loops
+- Learn programming tools
+- Learn Python basics
 
-# Contenido del curso
+# Course Content
 
-- Introducción a la programación con Python
+- Introduction to Programming with Python
 
-1. El arte de la programación
-2. ¿Por qué aprender Python?
-3. El núcleo de un programa: los algoritmos
-4. Instalación de nuestras herramientas en Windows
-5. Instalación de nuestras herramientas en Mac
-6. Instalación de nuestras herramientas en Ubuntu
-7. Tu mejor herramienta: la consola
+1. The art of programming
+2. Why learn Python?
+3. The core of a program: algorithms
+4. Installing our tools on Windows
+5. Installing our tools on Mac
+6. Installing our tools on Ubuntu
+7. Your best tool: the console
 
-- Conceptos básicos de Python
+- Python Basics
 
-1. Explorando Python: operadores aritméticos
-2. ¿Qué es una variable?
-3. Los primitivos: tipos de datos sencillos
-4. Convertir un dato a un tipo diferente
-5. Operadores lógicos y de comparación en Python
-6. Tu primer programa: conversor de monedas
+1. Exploring Python: arithmetic operators
+2. What is a variable?
+3. The primitives: simple data types
+4. Converting data to a different type
+5. Logical and comparison operators in Python
+6. Your first program: currency converter
 
-- Herramientas para programar
+- Programming Tools
 
-1. Construyendo el camino de un programa con condicionales
-2. Varios países en mi conversor de monedas
-3. Aprendiendo a no repetir código con funciones
-4. Modularizando nuestro conversor de monedas
-5. Trabajando con texto: cadenas de caracteres
-6. Trabajando con texto: slices
-7. Proyecto: palíndromo
+1. Building a program's path with conditionals
+2. Multiple countries in our currency converter
+3. Learning to avoid code repetition with functions
+4. Modularizing our currency converter
+5. Working with text: character strings
+6. Working with text: slices
+7. Project: palindrome
 
-- Bucles
+- Loops
 
-1. Aprendiendo bucles
-2. El ciclo while
-3. Explorando un bucle diferente: el ciclo for
-4. Recorriendo un string con for
-5. Interrumpiendo ciclos con break y continue
-6. Proyecto: prueba de primalidad
-7. Proyecto: videojuego
+1. Learning loops
+2. The while loop
+3. Exploring a different loop: the for loop
+4. Traversing a string with for
+5. Interrupting cycles with break and continue
+6. Project: primality test
+7. Project: video game
 
-- Estructuras de datos
+- Data Structures
 
-1. Almacenar varios valores en una variable: listas
-2. Entendiendo cómo funcionan las tuplas
-3. ¿Qué son los diccionarios?
-4. Proyecto: generador de contraseñas
+1. Storing multiple values in a variable: lists
+2. Understanding how tuples work
+3. What are dictionaries?
+4. Project: password generator
 
-- Despedida
+- Farewell
 
-1. Sigue aprendiendo
+1. Keep learning
 
-> <span>Certificación: <a href="https://platzi.com/p/RayLex_Aguirre/curso/1937-python-basico/diploma/detalle/">Mostrar credencial</a></span>
+> <span>Certification: <a href="https://platzi.com/p/RayLex_Aguirre/curso/1937-python-basico/diploma/detalle/">Show credential</a></span>
 
-![Certificado](img/diploma-python-basico.jpg)
+![Certificate](img/diploma-python-basico.jpg)
