@@ -1,74 +1,74 @@
-# Curso de Fundamentos de Python
+# Python Fundamentals Course
 
-> <a href="https://platzi.com/cursos/python/?school=_escuela_escuela-datos_">Curso de Fundamentos de Python</a>
+> <a href="https://platzi.com/cursos/python/?school=_escuela_escuela-datos_">Python Fundamentals Course</a>
 
-Profesor en platzi: <a href="https://github.com/nicobytes">Nicolas Molina</a>
+Platzi professor: <a href="https://github.com/nicobytes">Nicolas Molina</a>
 
-> Senior Web Developer con Angular y NestJS
+> Senior Web Developer with Angular and NestJS
 
-Aprende Python desde cero. Eleva tus oportunidades con este lenguaje en gran crecimiento para áreas como data science, desarrollo backend, inteligencia artificial, IoT y más. Crea tus primeros programas utilizando variables, estructuras de datos, condicionales y ciclos.
+Learn Python from scratch. Enhance your opportunities with this rapidly growing language for areas such as data science, backend development, artificial intelligence, IoT, and more. Create your first programs using variables, data structures, conditionals, and loops.
 
-- Guarda datos en listas y diccionarios para usarlos fácilmente.
-- Utiliza condicionales y ciclos para la lógica de tus programas.
-- Conoce distintos tipos de datos.
-- Aplica diferentes conceptos de programación.
+- Store data in lists and dictionaries for easy use
+- Use conditionals and loops for program logic
+- Learn different data types
+- Apply various programming concepts
 
-# Contenido del curso
+# Course Content
 
-- Primeros pasos con Python
+- First Steps with Python
 
-1. ¿Por qué aprender Python?
-2. Herramientas del curso
-3. Herramientas para programar con Python
-4. Tu primer programa
-5. Playgrounds: te doy la bienvenida a los ejercicios interactivos
+1. Why learn Python?
+2. Course tools
+3. Tools for programming with Python
+4. Your first program
+5. Playgrounds: welcome to interactive exercises
 6. Variables
-7. Playgrounds: modifica el valor de una variable
+7. Playgrounds: modify a variable's value
 
-- Tipos de datos en Python
+- Data Types in Python
 
-1. Tipos de datos
+1. Data types
 2. Strings
 3. Numbers
 4. Booleans
-5. Transformación de tipos
-6. Playgrounds: imprime el formato adecuado
+5. Type transformation
+6. Playgrounds: print the proper format
 
-- Operadores y condicionales
+- Operators and Conditionals
 
-1. Operadores aritméticos
-2. Operadores de comparación
-3. Comparación de números flotantes
-4. Operadores lógicos: and y or
-5. Operador lógico not
-6. Condicionales
-7. Proyecto: condicionales
-8. Playgrounds: identifica si un número es par o impar
+1. Arithmetic operators
+2. Comparison operators
+3. Floating-point number comparison
+4. Logical operators: and & or
+5. Logical operator: not
+6. Conditionals
+7. Project: conditionals
+8. Playgrounds: identify if a number is even or odd
 
-- Listas y diccionarios
+- Lists and Dictionaries
 
-1. String recargado
-2. Indexing y slicing
-3. Listas
-4. Métodos de listas
-5. Playgrounds: agrega, modifica y elimina elementos de una lista
-6. Tuplas
-7. Proyecto: tuplas
-8. Diccionarios: definición y lectura
-9. Diccionarios: inserción y actualización
-10. Playgrounds: agrega, modifica y elimina elementos de un diccionario
+1. Advanced strings
+2. Indexing and slicing
+3. Lists
+4. List methods
+5. Playgrounds: add, modify and remove list elements
+6. Tuples
+7. Project: tuples
+8. Dictionaries: definition and reading
+9. Dictionaries: insertion and updating
+10. Playgrounds: add, modify and remove dictionary elements
 
-- Ciclos
+- Loops
 
 1. Loops: While
 2. Loops: For
-3. Playgrounds: agrega solo los números positivos de una lista
-4. Ciclos anidados
+3. Playgrounds: add only positive numbers from a list
+4. Nested loops
 
-- Cierre
+- Closure
 
-1. Proyecto: aplicando ciclos
+1. Project: applying loops
 
-> <span>Certificación: <a href="https://platzi.com/p/RayLex_Aguirre/curso/4227-python/diploma/detalle/">Mostrar credencial</a></span>
+> <span>Certification: <a href="https://platzi.com/p/RayLex_Aguirre/curso/4227-python/diploma/detalle/">Show credential</a></span>
 
-![Certificado](img/Fundamentos_de_Python.jpg)
+![Certificate](img/Fundamentos_de_Python.jpg)
